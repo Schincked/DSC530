@@ -1,4 +1,4 @@
-# DSC530 Final Project
+# Environmental Analysis
 
 ## Overview
 This project analyzes various environmental variables to understand their distributions, relationships, and impacts on temperature. The analysis includes descriptive statistics, visualizations, outlier detection, and regression modeling.
